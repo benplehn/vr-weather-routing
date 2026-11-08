@@ -1,0 +1,13 @@
+{
+ "note": "last observation of the boat (from a game screenshot) and the orders entered in the game",
+ "obs_utc": "202611071529",
+ "lat": 18.1333,
+ "lon": -62.2975,
+ "energy": 85,
+ "angle": 63,
+ "sail": 0,
+ "program": [["202611071720", -50], ["202611071820", 50]],
+ "pack_end_utc": "202611031225",
+ "last_cycle": "2026110712",
+ "night_until_local": "10:00"
+}

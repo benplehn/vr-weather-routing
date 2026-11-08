@@ -1,0 +1,24 @@
+# weather data and computed tables (downloaded / regenerated)
+data/*
+!data/land.geojson
+optimization/
+hindsight/data/
+hindsight/out/
+hindsight/logs/
+*.npz
+*.grb2
+# player state, reports and notifications (personal, generated)
+config.env
+stochastic/auto/state.json
+stochastic/auto/*.log
+stochastic/auto/*.json
+!stochastic/auto/state.example.json
+stochastic/auto/*.png
+stochastic/auto/*.md
+stochastic/result_*.json
+stochastic/*.log
+# Python
+__pycache__/
+.venv/
+*.pyc
+.DS_Store

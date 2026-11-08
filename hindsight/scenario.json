@@ -1,0 +1,1 @@
+{"case_name": "hindsight", "start_lat": 48.959167, "start_lon": -2.645278, "start_utc": "2026-11-01T13:13:00+00:00", "forecast_cycle_utc": "2026-11-01T06:00:00+00:00", "energy": 100.0, "sail": 0, "tack": 1, "weather_file": "weather.npz"}

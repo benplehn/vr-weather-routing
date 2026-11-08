@@ -1,0 +1,12 @@
+{
+ "_note": "EXEMPLE DE STRUCTURE, PAS LES DONNÉES OFFICIELLES. Portes et AEZ à remplacer par celles publiées par Virtual Regatta / l'organisation pour le Vendée Globe 2028 (l'AEZ réelle est un polygone de plusieurs dizaines de points). Portes : méridien 'lon' à franchir vers l'est, au sud ('side' S) ou au nord ('side' N) de 'lat'.",
+ "start": [46.47, -1.79],
+ "finish": [46.47, -1.79],
+ "gates": [
+  {"name": "Bonne-Espérance", "lon": 18.47, "lat": -34.36, "side": "S"},
+  {"name": "Leeuwin", "lon": 115.14, "lat": -34.38, "side": "S"},
+  {"name": "Horn", "lon": -67.27, "lat": -55.98, "side": "S"}
+ ],
+ "aez": [[-180, -60], [-120, -60], [-80, -58], [-67.3, -57.2], [-60, -57], [-20, -50], [0, -49], [20, -47], [60, -48], [100, -50], [140, -54], [170, -57], [180, -60]],
+ "zones": []
+}
